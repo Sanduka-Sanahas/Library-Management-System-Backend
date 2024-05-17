@@ -1,0 +1,9 @@
+Spring :
+  datasource :
+    url : jdbc:mysql://localhost:3306/library_management
+    username :
+    password :
+
+  jpa :
+    hibernate :
+      ddl-auto : update
